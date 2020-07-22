@@ -1,3 +1,3 @@
 function iterativeLog(arr){
-  arr.forEach()
+  arr.forEach((elem,ind) => {console.log()})
 }
